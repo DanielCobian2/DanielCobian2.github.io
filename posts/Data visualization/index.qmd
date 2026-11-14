@@ -1,6 +1,4 @@
 ---
-
----
 title: "Data Visualization Team Project"
 author: "Daniel Cobian"
 format: html
@@ -10,11 +8,11 @@ format: html
 
 ## Team Members
 
-- Daniel Cobian
-- Robbie Norman
-- Joshua Araujo
-- Evan Jackson
-- Brian Ostrosky
+- [Daniel Cobian](https://danielcobian2.github.io/)
+- [Robbie Norman](https://robbie-norman.github.io/)
+- [Joshua Araujo](https://joshua7o.github.io/)
+- [Evan Jackson](https://evanj07.github.io/)
+- [Brian Ostrosky](https://brianostrosky.github.io/)
 
 ## Project Overview
 
@@ -38,5 +36,4 @@ The following slides show our team's data visualizations and findings.
 
 ### Slide 4
 
-![Slide 4](Slide4.png)
----
+## ![Slide 4](Slide4.png)
