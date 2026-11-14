@@ -1,0 +1,42 @@
+---
+
+---
+title: "Data Visualization Team Project"
+author: "Daniel Cobian"
+format: html
+---
+
+# Data Visualization Team Project
+
+
+## Team Members
+
+- [Daniel Cobian](https://danielcobian2.github.io/)
+- [Robbie Norman](https://robbie-norman.github.io/)
+- [Joshua Araujo](https://joshua7o.github.io/)
+- [Evan Jackson](https://evanj07.github.io/)
+
+## Project Overview
+
+Our team created four assertion-evidence slides using different data visualization techniques to analyze data and communicate our findings.
+
+## Team Presentation
+
+The following slides show our team's data visualizations and findings.
+
+### Slide 1
+
+![Slide 1](Slide1.png)
+
+### Slide 2
+
+![Slide 2](Slide2.png)
+
+### Slide 3
+
+![Slide 3](Slide3.png)
+
+### Slide 4
+
+![Slide 4](Slide4.png)
+---
