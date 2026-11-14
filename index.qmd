@@ -1,0 +1,25 @@
+---
+title: "Daniel Cobian"
+image: "IMG_2819_headshot.png - copy.jpg"
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/DanielCobian2
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR_LINKEDIN
+    - icon: envelope
+      text: Email
+      href: mailto:cobian@uark.edu
+---
+
+## About Me
+
+Hello! My name is Daniel Cobian, and I am a student at the University of Arkansas studying Industrial Engineering.
+
+I am interested in problem-solving, improving processes, and learning how engineering can make everyday systems more efficient.
+
+This e-portfolio highlights my academic projects, technical skills, and experiences as I continue developing as an engineering student.
+---
